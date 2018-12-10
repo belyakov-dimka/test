@@ -1,0 +1,49 @@
+.article {
+background-color: #ededed;
+width: 70%;
+margin:10px auto;
+padding: 10px 10px;
+}
+.title{
+font-weight: bold;
+font-size: 22px;
+margin: 17px 0px;
+padding-top: 14px;
+}
+.body{
+background-color: #ededed;
+padding: 9px 23px;
+margin: 16px auto;
+}
+.userid{
+	display: none;
+}
+.readenContainer{
+	text-align: right;
+}
+.readen{margin: 0px 21px 12px 7px;
+cursor: pointer;
+border: 3px solid #fff;
+
+color: #fff;
+
+background: #000;
+
+padding: 4px 19px;
+
+font-size: 15px;
+
+border-radius: 7px;}
+.readen:hover{
+	transition: 0.4s;
+	background: #fff;
+	color: #000;
+	border: 3px solid #000;
+}
+.none{
+	display: none;
+}
+.linkOn {
+	color: red;
+	cursor: pointer;
+}
